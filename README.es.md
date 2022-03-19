@@ -1,3 +1,11 @@
+Explicación de como hice el ejercicio:
+
+- Aplicando operación condicional ternario dentro del query selector donde me indica el ejercicio
+- Dentro de cada etiquete le he indicado que me ponga la condicional de lo que yo rellene
+- En los apartados de name, last name, role, country y city le pongo el dato correspondiente
+- Para que no me aparezca "null" defino un string vacio para que no aparezca nada
+
+
 # Conditional Profile Card
 
 Como desarrollador web, estarás creando muchos HTML dinámicos + CSS usando algoritmos de Javascript.
